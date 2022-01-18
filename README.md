@@ -45,4 +45,4 @@ Ce dépôt contient un program fait en React qui permet de garder une trace des 
 * Fayssal EL ANSARI
 
 # License
-* 
+* GNU General Public License v3.0
