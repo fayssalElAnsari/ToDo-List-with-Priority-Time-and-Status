@@ -21,16 +21,16 @@ Ce dépôt contient un program fait en React qui permet de garder une trace des 
 ## installation
 * récupérer le dépôt avec:
 ```console
-git clone https://github.com/fayssalElAnsari/ToDo-List-with-Priority-Time-and-Status.git
+fayssal@mypc:~$ git clone https://github.com/fayssalElAnsari/ToDo-List-with-Priority-Time-and-Status.git
 ```
 * installer les paquets *Node.js* :
  ```console
- npm install
- npm run build
+ fayssal@mypc:~$ npm install
+ fayssal@mypc:~$ npm run build
 ```
  * démarrer le serveur de développement de *Webpack*
  ```console
- npm run dev-server
+ fayssal@mypc:~$ npm run dev-server
  ```
 
 # Construit avec
