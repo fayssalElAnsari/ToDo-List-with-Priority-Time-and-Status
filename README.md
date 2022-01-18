@@ -26,6 +26,7 @@ Ce dépôt contient un program fait en React qui permet de garder une trace des 
  * installer les paquets *Node.js* :
   ```bash
   $  npm install
+  $  npm run build
   ```
   * démarrer le serveur de développement de *Webpack*
   ```bash
