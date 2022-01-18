@@ -40,3 +40,9 @@ Ce dépôt contient un program fait en React qui permet de garder une trace des 
 * <img src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+javascript-1324450741921820748.png" width="25">  Javascript  - A programming language that is one of the core technologies on the Web
 * <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width="25">  html  - The standard markup language for documents designed to be displayed in a web browser
 * <img src="https://cdn-icons-png.flaticon.com/512/29/29088.png" width="25">  css - A style sheet language used for describing the presentation of a document written in html
+
+# Auteur
+* Fayssal EL ANSARI
+
+# License
+* 
