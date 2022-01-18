@@ -20,18 +20,18 @@ Ce dépôt contient un program fait en React qui permet de garder une trace des 
 
 ## installation
 * récupérer le dépôt avec:
- ```bash
- $  git clone https://github.com/fayssalElAnsari/ToDo-List-with-Priority-Time-and-Status.git
+```console
+git clone https://github.com/fayssalElAnsari/ToDo-List-with-Priority-Time-and-Status.git
+```
+* installer les paquets *Node.js* :
+ ```console
+ npm install
+ npm run build
+```
+ * démarrer le serveur de développement de *Webpack*
+ ```console
+ npm run dev-server
  ```
- * installer les paquets *Node.js* :
-  ```bash
-  $  npm install
-  $  npm run build
-  ```
-  * démarrer le serveur de développement de *Webpack*
-  ```bash
-  $  npm run dev-server
-  ```
 
 # Construit avec
 * <img src="https://image.pngaaa.com/896/2507896-middle.png" width="25"> React - A declarative, efficient, and flexible JavaScript library for building user interfaces
